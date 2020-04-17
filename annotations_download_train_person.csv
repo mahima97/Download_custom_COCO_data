@@ -1,0 +1,15 @@
+,image_path,left,top,right,bottom,cat_ID,cat_Name
+0,downloaded_images_person/COCO_val2014_000000229383.jpg,162,164,531,605,1,person
+1,downloaded_images_person/COCO_val2014_000000229383.jpg,248,79,600,555,1,person
+2,downloaded_images_person/COCO_val2014_000000229383.jpg,0,128,226,598,1,person
+3,downloaded_images_person/COCO_val2014_000000229383.jpg,437,1,520,153,1,person
+4,downloaded_images_person/COCO_val2014_000000229383.jpg,531,91,612,339,1,person
+5,downloaded_images_person/COCO_val2014_000000229383.jpg,434,79,520,192,1,person
+6,downloaded_images_person/COCO_val2014_000000294918.jpg,414,163,477,402,1,person
+7,downloaded_images_person/COCO_val2014_000000294918.jpg,255,142,278,204,1,person
+8,downloaded_images_person/COCO_val2014_000000294918.jpg,155,146,187,230,1,person
+9,downloaded_images_person/COCO_val2014_000000294918.jpg,0,106,32,304,1,person
+10,downloaded_images_person/COCO_val2014_000000262148.jpg,477,263,492,342,1,person
+11,downloaded_images_person/COCO_val2014_000000262148.jpg,358,305,389,349,1,person
+12,downloaded_images_person/COCO_val2014_000000262148.jpg,254,245,272,346,1,person
+13,downloaded_images_person/COCO_val2014_000000262148.jpg,378,247,484,352,1,person
